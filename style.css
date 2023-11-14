@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+.navigation{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lists ul{
+    display: flex;
+    padding-right: 50px;
+}
+
+.lists li{
+    list-style: none;
+}
+
+.lists a{
+    color: white;
+    padding: 0 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+footer{
+    background-color: grey;
+}
+
